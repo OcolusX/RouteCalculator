@@ -18,5 +18,12 @@
 ## Пример работы программы:
 * Exel таблица со списоком достопримечательностей:  
 ![image](https://github.com/OcolusX/RouteCalculator/assets/90719002/22ecc19f-0359-494f-b388-26a851e609de)
-* Результат выполнения:  
+
+* Результат выполнения (48 ч. общего времени, 16 ч. на сон):  
 ![image](https://github.com/OcolusX/RouteCalculator/assets/90719002/bbc23d74-0261-4baa-83b1-06571bb2a370)
+
+* Результат выполнения (47 ч. общего времени, 16 ч. на сон):
+![image](https://github.com/OcolusX/RouteCalculator/assets/90719002/440c9935-0c87-4364-9b19-404e406f64ea)
+
+* Результат выполнения (52 ч. общего времени, 12 ч. на сон):
+![image](https://github.com/OcolusX/RouteCalculator/assets/90719002/e81ef40c-56c3-4f2a-b5ed-95d5ec7b8453)
